@@ -1,3 +1,4 @@
 {
-  "variavel" : "Teste"
+  "acao" : "redirect",
+  "url" : "https://www.fundamentus.com.br/balancos.php?papel=PETR3"
 }
