@@ -1,3 +1,3 @@
-var muniz = function() {
+function muniz() {
   alert("teste");
 };
