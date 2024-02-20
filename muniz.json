@@ -1,4 +1,4 @@
 {
-  "acao" : "download",
-  "url" : "https://www.fundamentus.com.br/balancos.php?papel=CSNA3"
+  "acao" : "redirect",
+  "url" : "https://www.fundamentus.com.br/balancos.php?papel=MGLU3"
 }
