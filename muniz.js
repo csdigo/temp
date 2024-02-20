@@ -1,3 +1,1 @@
-function muniz() {
-  alert("teste");
-};
+alert("teste");
